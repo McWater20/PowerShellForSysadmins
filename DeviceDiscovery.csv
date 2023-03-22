@@ -1,0 +1,7 @@
+"HostName","Error","IsOnline","IPAddress","Department"
+,"1.0.168.192.in-addr.arpa : DNS name does not exist","False","192.168.0.1","IT"
+,"2.0.168.192.in-addr.arpa : DNS name does not exist","False","192.168.0.2","Accounting"
+,"3.0.168.192.in-addr.arpa : DNS name does not exist","False","192.168.0.3","HR"
+,"4.0.168.192.in-addr.arpa : DNS name does not exist","False","192.168.0.4","IT"
+,"7.0.168.192.in-addr.arpa : DNS name does not exist","False","192.168.0.7","Accounting"
+,,"False","192.168.0.8","Accounting"

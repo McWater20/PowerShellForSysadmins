@@ -1,4 +1,4 @@
-$rows = Import-Csv -Path 'C:\IPAddresses.csv'
+$rows = Import-Csv -Path '.\IPAddresses.csv'
 
 foreach ($row in $rows) {
 	try {
